@@ -17,7 +17,7 @@ html {
 }
 
 .polaroid > img {
-  display: block;
+  display: inline-block;
   width: 100%;
 }
 
